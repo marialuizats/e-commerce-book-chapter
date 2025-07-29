@@ -12,7 +12,7 @@ The information contained in the **Samples.zip** file is detailed below. For all
 
 - Adresses:
     - The contents of the files are explained as follows:
-        - Each row refers to a **customer**
+        - Each row refers to a **customer**.
         - First column refers to the **latitude** of the address of provided **customer**.
         - Second column refers to the **longitude** of the address of provided **customer**.
         - The third column refers to the customer's specific **service center**, if **scenarios 1 and 2** are used to run the instance, as explained in the book chapter.
