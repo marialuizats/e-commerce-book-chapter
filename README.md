@@ -10,7 +10,7 @@ The information contained in the **Samples.zip** file is detailed below. For all
 
 **Folders:**
 
-- Adresses:
+- Addresses:
     - The contents of the files are explained as follows:
         - Each row refers to a **customer**.
         - First column refers to the **latitude** of the address of provided **customer**.
