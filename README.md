@@ -1,5 +1,5 @@
 ---
-Instances- Book Chapter
+Instances - Book Chapter
 ---
 
 The files found here were used in the computational experiments for the Book Chapter.
@@ -31,3 +31,4 @@ The information contained in the **Samples.zip** file is detailed below. For all
         
 
 Author and Developer: Maria Luíza Teixeira Santos ([marialuizats@usp.br](mailto:marialuizats@usp.br)).
+Springer Book: Theory, Algorithms and Experiments in Applied Optimization - Chapter 15
